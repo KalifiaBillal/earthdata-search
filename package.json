@@ -102,7 +102,7 @@
     "start-server-and-test": "^1.10.6",
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^4.1.0",
-    "three": "~0.86.0",
+    "three": "~0.125.0",
     "webpack": "^4.44.1",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.8",
